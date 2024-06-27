@@ -1,7 +1,7 @@
 variable "length" {
   description = "The length (in words) of the pet name. Defaults to 2"
   type        = number
-  default     = 2
+  default     = 3
 }
 
 variable "prefix" {
